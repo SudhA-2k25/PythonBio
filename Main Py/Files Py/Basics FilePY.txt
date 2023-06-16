@@ -1,0 +1,27 @@
+f=open("/content/uni.txt",'r')
+print(f.readlines())
+
+
+#readline - used to read by lines
+#read()- reads bit by bit
+#readlines - list
+
+# create a shallow copy of a file
+f=open("/content/uni.txt",'r')
+fi=f.readlines() 
+filewrite=open("/content/backup.txt","w")
+# fc=""
+# for i in fi:
+# fc=fc+i
+
+myfile="".join(fi)
+filewrite.write(myfile)
+filewrite.close()
+
+f=open("/content/seq.txt","r")
+while(l=f.readline()):
+  if l[0]==">"
+  count=count+1
+
+print(count)
+
