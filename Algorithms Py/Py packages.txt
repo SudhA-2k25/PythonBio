@@ -1,0 +1,12 @@
+NumPy: A fundamental package for scientific computing with Python. It provides support for large, multi-dimensional arrays and matrices, along with a collection of mathematical functions to operate on these arrays efficiently.
+
+pandas: A powerful data manipulation and analysis library. It offers data structures and operations for manipulating structured data, including tabular data, time series, and more. It is widely used for data cleaning, transformation, and exploration tasks.
+
+Matplotlib: A plotting library that provides a MATLAB-like interface for creating a variety of static, animated, and interactive visualizations in Python. It is used for creating line plots, scatter plots, bar plots, histograms, and more.
+
+scikit-learn: A machine learning library that provides a wide range of supervised and unsupervised learning algorithms. It is built on top of NumPy, SciPy, and Matplotlib and offers tools for data preprocessing, model selection, evaluation, and more.
+
+TensorFlow: An open-source machine learning framework developed by Google. It provides a comprehensive set of tools and APIs for building and deploying machine learning models, particularly for deep learning tasks. It supports both CPU and GPU computations.
+
+PyTorch: Another popular open-source machine learning framework that is widely used for deep learning tasks. PyTorch provides a dynamic computational graph and a rich ecosystem of tools and libraries for building and training neural networks.
+
